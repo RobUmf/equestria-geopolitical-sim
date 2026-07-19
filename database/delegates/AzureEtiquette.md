@@ -70,4 +70,4 @@
 
 *   **Full-Body Reference Layout:** ![Azure Profile Vector](Azure profile vector.png)
 *   **Head Turnaround Sheet:** ![Azure Head Vector](/Azure head vector.png)
-*   **Cutie Mark Decal:** ![Azure Cutie Mark Decal](/media/robumf/NTFSshare/DelegatesEquestra/cities/Canterlot/Azure cutiemark.png)
+*   **Cutie Mark Decal:** ![Azure Cutie Mark Decal](/Azure cutiemark.png)
