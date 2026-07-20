@@ -80,5 +80,7 @@
 
 ---
 ### Character Portraits
-![Full Profile](Gale_Gauge_Profile.png)
-![Headshots](Gale_Gauge_Head.png)
+![Full Profile](GaleGaugeProfile.png)
+![Headshots](GaleGaugeHead.png)
+![Cutie Mark](GaleCutiemark.png)
+!Accessory]GaleAccessory.png)
