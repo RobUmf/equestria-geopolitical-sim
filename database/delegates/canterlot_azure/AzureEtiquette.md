@@ -69,5 +69,5 @@
 ## ✦ Character Portraits & Asset Vectors
 
 *   **Full-Body Reference Layout:** ![Azure Profile Vector](AzureProfileVector.png)
-*   **Head Turnaround Sheet:** ![Azure Head Vector](/AzureHeadVector.png)
-*   **Cutie Mark Decal:** ![Azure Cutie Mark Decal](/AzureCutiemark.png)
+*   **Head Turnaround Sheet:** ![Azure Head Vector](AzureHeadVector.png)
+*   **Cutie Mark Decal:** ![Azure Cutie Mark Decal](AzureCutiemark.png)
