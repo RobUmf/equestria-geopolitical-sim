@@ -15,11 +15,11 @@ The simulation tracks five distinct core city-state systems, each run by a prima
 
 | Faction / City | Economic Model & Ideology | Key Delegate |
 | :--- | :--- | :--- |
-| **Canterlot** | Classical Traditionalist Aristocracy | Azure Etiquette |
-| **Cloudsdale** | High-Altitude Industrial Meritocracy | Gale Gauge |
-| **Manehattan** | Hyper-Capitalist Corporate Meritocracy | Ticker Tape |
-| **The Equality Settlement** | Totalitarian Collectivist Neutrality | Parity |
-| **Ponyville** | Grassroots Agrarian Decentralization | Apple-Graft |
+| **Canterlot** | Classical Traditionalist Aristocracy | [Azure Etiquette](database/delegates/AzureEtiquette.md) |
+| **Cloudsdale** | High-Altitude Industrial Meritocracy | [Gale Gauge](database/delegates/GaleGauge.md) |
+| **Manehattan** | Hyper-Capitalist Corporate Meritocracy | [Ticker Tape](database/delegates/TickerTape.md) |
+| **The Equality Settlement** | Totalitarian Collectivist Neutrality | [Parity](database/delegates/ParityProfile.md) |
+| **Ponyville** | Grassroots Agrarian Decentralization | [Apple-Graft](database/delegates/AppleGraft.md) |
 
 ---
 
