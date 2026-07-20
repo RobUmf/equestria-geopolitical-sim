@@ -83,4 +83,4 @@
 ![Full Profile](GaleProfileVector.png)
 ![Headshots](GaleHeadVector.png)
 ![Cutie Mark](GaleCutiemark.png)
-!{Accessory]GaleAccessory.png)
+![Accessory](GaleAccessory.png)
