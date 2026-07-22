@@ -73,5 +73,5 @@
 
 ---
 ### Character Portraits
-![Full Profile](RouletteProfile.png)
+![Full Profile](RouletteProfileVector.png)
 ![Headshots](RouletteHead.png)
