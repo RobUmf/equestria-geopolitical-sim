@@ -73,5 +73,5 @@
 
 ---
 ### Character Portraits
-![Full Profile](database/delegates/lospegasus_roulette/RouletteProfile.png)
-![Headshots](database/delegates/lospegasus_roulette/RouletteHead.png)
+![Full Profile](RouletteProfile.png)
+![Headshots](RouletteHead.png)
