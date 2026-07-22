@@ -86,4 +86,4 @@
 ![Full Profile](BuckskinProfileVector.png)
 ![Headshots](BuckskinHeadVector.png)
 ![Cutie Mark](BuckskinCutiemark.png)
-![Accessories](BuckskinAccessories.png)
+![Accessories](BuckskinAccessory.png)
