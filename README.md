@@ -20,7 +20,7 @@ The simulation tracks five distinct core city-state systems, each run by a prima
 | **Manehattan** | Hyper-Capitalist Corporate Meritocracy | [Ticker Tape](database/delegates/manhattan_ticker/TickerTape.md)|
 | **The Equality Settlement** | Totalitarian Collectivist Neutrality | [Parity](database/delegates/ourtown_parity/Parity.md) |
 | **Ponyville** | Grassroots Agrarian Decentralization | [Apple-Graft](database/delegates/ponyvile_apple/AppleGraft.md) |
-| **Appleloosa** | Frontier Agrarian Expansion & Cartography | [Buckskin Trail (database/delegates/appleloosa_buckskin/BuckskinTrail.md) |
+| **Appleloosa** | Frontier Agrarian Expansion & Cartography | [Buckskin Trail](database/delegates/appleloosa_buckskin/BuckskinTrail.md) |
 
 ---
 
