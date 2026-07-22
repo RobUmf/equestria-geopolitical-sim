@@ -11,7 +11,7 @@ This repository provides a structured framework for maintaining narrative consis
 
 ## 🗺️ Active Factions & Ideological Landscapes
 
-The simulation tracks five distinct core city-state systems, each run by a primary Delegate O.C.:
+The simulation tracks seven distinct core city-state systems, each run by a primary Delegate O.C.:
 
 | Faction / City | Economic Model & Ideology | Key Delegate |
 | :--- | :--- | :--- |
