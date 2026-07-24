@@ -74,3 +74,4 @@
 ### Character Portraits
 ![Full Profile](PolarisProfileVector.png)
 ![Headshots](PolarisHeadVector.png)
+![Cutie Mark](PolarisCutiemark.png)
