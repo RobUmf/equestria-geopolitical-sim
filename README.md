@@ -11,7 +11,7 @@ This repository provides a structured framework for maintaining narrative consis
 
 ## 🗺️ Active Factions & Ideological Landscapes
 
-The simulation tracks seven distinct core city-state systems, each run by a primary Delegate O.C.:
+The simulation tracks eight distinct core city-state systems, each run by a primary Delegate O.C.:
 
 | Faction / City | Economic Model & Ideology | Key Delegate |
 | :--- | :--- | :--- |
@@ -22,6 +22,7 @@ The simulation tracks seven distinct core city-state systems, each run by a prim
 | **Ponyville** | Grassroots Agrarian Decentralization | [Apple-Graft](database/delegates/ponyvile_apple/AppleGraft.md) |
 | **Appleloosa** | Frontier Agrarian Expansion & Cartography | [Buckskin Trail](database/delegates/appleloosa_buckskin/BuckskinTrail.md) |
 | **Los Pegasus** | Laissez-Faire Resort & Entertainment Capitalism | [Roulette](database/delegates/lospegasus_roulette/Roulette.md) |
+| **The Crystal Empire** | Managed Artisan Economy & Radiant Concord | [Polaris Prism](database/delegates/Crystalempire_Polaris/PolarisPrism.md) |
 
 ---
 
