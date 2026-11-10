@@ -21,12 +21,12 @@ The simulation tracks eight distinct core city-state systems, each run by a prim
 | :--- | :--- | :--- |
 | **Canterlot** | Classical Traditionalist Aristocracy | [Azure Etiquette](database/delegates/canterlot_azure/AzureEtiquette.md) |
 | **Cloudsdale** | High-Altitude Industrial Meritocracy | [Gale Gauge](database/delegates/cloudsdale_gale/GaleGauge.md) |
-| **Manehattan** | Hyper-Capitalist Corporate Meritocracy | [Ticker Tape](database/delegates/manhattan_ticker/TickerTape.md) |
+| **Manehattan** | Hyper-Capitalist Corporate Meritocracy | [Ticker Tape](database/delegates/manehattan_ticker/TickerTape.md) |
 | **The Equality Settlement** | Totalitarian Collectivist Neutrality | [Parity](database/delegates/ourtown_parity/Parity.md) |
-| **Ponyville** | Grassroots Agrarian Decentralization | [Apple-Graft](database/delegates/ponyvile_apple/AppleGraft.md) |
+| **Ponyville** | Grassroots Agrarian Decentralization | [Apple-Graft](database/delegates/ponyville_apple/AppleGraft.md) |
 | **Appleloosa** | Frontier Agrarian Expansion & Cartography | [Buckskin Trail](database/delegates/appleloosa_buckskin/BuckskinTrail.md)|
 | **Los Pegasus** | Laissez-Faire Resort & Entertainment Capitalism | [Roulette](database/delegates/lospegasus_roulette/Roulette.md)|
-| **The Crystal Empire** | Managed Artisan Economy & Radiant Concord | [Polaris Prism](database/delegates/Crystalempire_Polaris/PolarisPrism.md)|
+| **The Crystal Empire** | Managed Artisan Economy & Radiant Concord | [Polaris Prism](database/delegates/crystalempire_Polaris/PolarisPrism.md)|
 
 ---
 
