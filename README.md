@@ -26,7 +26,7 @@ The simulation tracks eight distinct core city-state systems, each run by a prim
 | **Ponyville** | Grassroots Agrarian Decentralization | [Apple-Graft](database/delegates/ponyville_apple/AppleGraft.md) |
 | **Appleloosa** | Frontier Agrarian Expansion & Cartography | [Buckskin Trail](database/delegates/appleloosa_buckskin/BuckskinTrail.md)|
 | **Los Pegasus** | Laissez-Faire Resort & Entertainment Capitalism | [Roulette](database/delegates/lospegasus_roulette/Roulette.md)|
-| **The Crystal Empire** | Managed Artisan Economy & Radiant Concord | [Polaris Prism](database/delegates/crystalempire_Polaris/PolarisPrism.md)|
+| **The Crystal Empire** | Managed Artisan Economy & Radiant Concord | [Polaris Prism](database/delegates/crystalempire_polaris/PolarisPrism.md)|
 
 ---
 
