@@ -1,0 +1,49 @@
+# Global Visual Style Guide & Image Generation Specification
+
+## 1. Overview & Core Aesthetic
+This specification defines the visual rules for rendering delegate artwork and scene compositions in the geopolitical simulator engine. 
+
+The composite rendering relies on a dual-layer approach:
+* **Backgrounds:** Clean, atmospheric 2D Flash-style vector backgrounds consistent with official *MLP:FiM* show art.
+* **Foreground Characters/OCs:** Crisp, high-fidelity vector character art with dark tinted outlines, soft cel-shading, and detailed mane textures.
+
+---
+
+## 2. Character Vector Specification (Foreground OCs)
+
+### A. Line Art & Outlines
+* **Line Weight:** Medium-thin, smooth vector stroke with consistent width across limbs, muzzle, and ears.
+* **Line Color:** Darker tinted line work matching the local coat, hair, or clothing color (e.g., deep charcoal outlines for off-white coats, dark navy outlines for indigo hair). Pure black line art should be avoided unless specified for accessories.
+
+### B. Proportions & Anatomical Anchors
+* **Style Baseline:** Classic *MLP:FiM* show-accurate proportions (large expressive eyes, rounded muzzles, sleek torso curves, and clean leg tapers).
+* **Eyes:** Multi-gradient iris with distinct upper lash lines and white specular highlights.
+* **Mane & Tail Rendering:** Layered vector shapes featuring directional strand highlights, soft inner shading, and silver/metallic hair accent stripes.
+
+### C. Shading & Lighting
+* **Shading Model:** Dual-tone soft cel-shading.
+* **Shadow Placement:** Soft ambient occlusion under the chin, chest crossover garments, mane folds, and hooves.
+* **Gradients:** Subtle linear/radial gradients on coat tones and accessories to add depth without breaking the 2D vector look.
+
+### D. Apparel & Cutie Marks
+* **Accessories:** Integrated cleanly into character vector layers (e.g., embroidery filigree on sashes, metallic pendants, silk trim).
+* **Cutie Marks:** Placed on the flank, vector-scaled, aligned to hip angle.
+
+---
+
+## 3. Environment & Background Specification
+
+### A. Background Art Style
+* **Aesthetic:** Show-authentic 2D Flash background design (painterly vector wash, soft atmospheric gradient skies, warm ambient light).
+* **Level of Detail:** Moderately detailed environment elements (stone masonry, wooden furniture, distant silhouettes) kept soft enough to ensure foreground character vectors stand out clearly.
+* **Depth of Field:** Subtle background blur or reduced stroke weight on distant architecture to establish clear spatial depth.
+
+---
+
+## 4. Standard Prompting Template
+
+```text
+[Aesthetic]: High-fidelity vector character art in official MLP:FiM visual style, clean colored vector outlines, soft cel-shading.
+[Character Description]: [Insert OC features from delegate .md file: coat, mane, horn/wings, attire, expression].
+[Background]: 2D Flash-style MLP:FiM show background of [Insert Location], warm ambient lighting, painterly vector environment.
+[Composition]: Medium dynamic pose, clear silhouetting, soft focal lighting on character.
